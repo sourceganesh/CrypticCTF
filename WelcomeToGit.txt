@@ -13,3 +13,9 @@ When you commit your project, the project will take a snapshot of everything you
 When committing we have an essential part of the commit known as the "commit message". Since this sentance is visible to you, there is already a commit made with the message as "Hello there! ~ General Kenobi". 
 
 You can give any commit message, but, on a real project your commit message will be expected to describe briefly and professionally of the changes you have made in the commit with respect to the previous commit.
+
+This sentance will account for the last commit in the master branch. Hence forth we will be looking into branching. This master branch will be branching out into two branches, "adam" and "eva". 
+
+They will contain all the sentances that can be seen above but will differ in their commits henceforth. Branches are used for adding a feature to a project. However, the branches now created will simply be an extension of the master branch.
+
+Note that in a real project, the actual project resides in the master branch. Other branches are used for testing purposes and to add features or remove bugs. 
