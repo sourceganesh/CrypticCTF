@@ -24,4 +24,4 @@ Note that in a real project, the actual project resides in the master branch. Ot
 
 Well, hi there. Let us talk about SHA. A SHA is a unique id given to a commit in git. They are random Characters. Before making the commit, it is impossible for one to know the SHA of their commit.
 
-The third part of your flag is given by the first 6 characters of SHA of this commit. The flag(3/4) will be of the format "_SHA6_", where SHA6 is the first 6 characters of the SHA of the commit adding this sentance.
+SHA's allow us to uniquely identify the commit and go back to the commit. This is the idea of version control. Every version of a project can be traced back to. So if you made a buggy program later, you can always head back to when it was stable and continue from there.
